@@ -1,0 +1,23 @@
+R  900 600
+
+NO ./path/north_texture.xpm
+SO ./path/south_texture.xpm
+WE ./path/west_texture.xpm
+EA ./path/east_texture.xpm
+
+S ./path/sprite_texture.xpm
+
+F 70,70,70
+C 0,255,255
+
+11111111111
+10000000001
+10022000301
+10011111001
+1001   1201
+1001   1201
+1001   1001
+10011111001
+10000000301
+1000N000001
+11111111111

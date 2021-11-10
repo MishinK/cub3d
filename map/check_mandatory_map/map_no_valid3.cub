@@ -1,0 +1,19 @@
+R  9000 6000
+
+NO ./path/north_texture.xpm
+SO ./path/south_texture.xpm
+WE ./path/west_texture.xpm
+EA ./path/east_texture.xpm
+
+DFE
+
+S ./path/sprite_texture.xpm
+
+F 70,70,70
+C 0,255,255
+
+11111
+12001
+10N01
+10001
+11111
